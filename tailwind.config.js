@@ -1,5 +1,5 @@
 const colors = require('tailwindcss/colors');
-
+/*Ayuup Kabadhe*/
 /* 
   Without these, we get warnings in our console regarding these colors being deprecated.
   Changes were implemented based on this GitHub discussion: https://github.com/tailwindlabs/tailwindcss/issues/4690 */
